@@ -44,7 +44,7 @@ const Card = () => {
                 </Link>
               </div>
             </div>
-            <hr />
+            <hr className="bottom-line"/>
           </div>
         );
       })}

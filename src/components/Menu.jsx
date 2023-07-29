@@ -1,5 +1,5 @@
 import React from "react";
-
+import { BsArrowDown } from "react-icons/bs";
 const Menu = () => {
   return (
     <div className="menu-section">
@@ -14,6 +14,7 @@ const Menu = () => {
           interfaces.
     
       </div>
+       <BsArrowDown className="down-arrow"  />
     </div>
   );
 };

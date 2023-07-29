@@ -1,6 +1,6 @@
 import React from "react";
 import Menu from "../components/Menu";
-import { BsArrowDown } from "react-icons/bs";
+
 import { FiArrowUpRight } from "react-icons/fi";
 import Card from "../components/Card";
 import Footer from "../components/Footer";
@@ -19,7 +19,7 @@ const Home = () => {
     <div className="home">
       <Menu />
 
-      <BsArrowDown className="down-arrow" />
+     
 
       <Card />
 
