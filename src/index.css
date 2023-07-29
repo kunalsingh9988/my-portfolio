@@ -122,9 +122,17 @@ nav {
   font-size: 20px;
   align-items: center;
 }
+.project-arrow{
+  margin-top: 70px;
+}
+.project-arrow h3{
+  /* color: #606060; */
+  text-decoration: underline;
+  font-size: 30px;
+}
 .down-arrow {
- 
-  height: 70px;
+  color: #606060;
+  font-size:70px;
 }
 @media screen and (max-width: 500px) {
   .home {
@@ -153,11 +161,11 @@ nav {
  
     margin-top: 30px;
   }
-
-  .down-arrow {
-    margin: 20px 130px 0 130px;
-    font-size: 40px;
+  .project-arrow{
+    text-align: center;
   }
+
+  
 }
 
 /* card  */
@@ -166,7 +174,7 @@ nav {
 }
 
 .bottom-line{
-
+  
   border-radius: 5px;
   border-width: 2px 0 0 0;
 
@@ -238,9 +246,12 @@ nav {
    .card-left span{
     margin-top: 20px;
    }
+   .card-left a{
+    margin-top: 10px;
+   }
    .card hr{
     margin: 0 50px;
-   width: 200px;
+   width: 300px;
     
     
   }

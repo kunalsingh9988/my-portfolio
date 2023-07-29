@@ -16,7 +16,7 @@ const Navbar = () => {
       <nav>
         <div className="brand-name">
          <Link to="/">    
-         <h1 className="heading">KUNAL.</h1>
+         <h1 className="heading">KUNAL</h1>
          </Link> 
         </div>
         <div className={`${navDown ? "icon-links active" : "icon-links"}`}>
