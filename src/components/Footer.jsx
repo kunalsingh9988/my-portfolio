@@ -11,7 +11,7 @@ const Footer = ({email}) => {
       </div>
       <div className="footer-right">
           <Link to="https://www.linkedin.com/in/kunal-singh-2724571b2/" target="_blank">Linkedin <FiArrowUpRight/>  </Link>
-          <Link to="https://github.com/kunalsingh9988/kunal-ecommerce" target="_blank">Github<FiArrowUpRight/></Link>
+          <Link to="https://github.com/kunalsingh9988/" target="_blank">Github<FiArrowUpRight/></Link>
           {email.isTrue ?  email.emailLink: null}
       </div>
     </div>

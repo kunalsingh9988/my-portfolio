@@ -10,7 +10,14 @@ const Contact = () => {
   }
   return (
     <div className="contact">
-      <h1>You're sending me an email!</h1>
+      <div className="upper-text">
+
+      <span>Contact/Whatsapp no. : +916266750520</span>
+      <span>email : kusing51@gmail.com</span>
+      <span>Location : Bhilai, Chhattisgarh</span>
+      <b style={{color:"red"}}> Ready to relocate !</b>
+      </div>
+      <h1>Send me an email!</h1>
       <form action="https://formspree.io/f/myyqyjjj" method="POST">
         <ul className="form-style-1">
           <li>
