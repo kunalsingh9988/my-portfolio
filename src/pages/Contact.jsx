@@ -51,7 +51,7 @@ const Contact = () => {
             ></textarea>
           </li>
           <li>
-            <input type="submit" value="Submit" />
+            <input type="submit" value="Send" />
           </li>
         </ul>
       </form>
