@@ -16,7 +16,7 @@ export const data = [
         description:"The React eCommerce Website is a sophisticated and user-friendly online shopping platform developed using React, context API, react hooks and other web technologies. The project aims to deliver a seamless and engaging online shopping experience to customers, offering a wide range of products and intuitive functionalities.",
         siteLink:{
             isTrue:true,
-            link:"https://kunalecom.netlify.app/"
+            link:"https://kunalstore.netlify.app/"
         },
         imageUrl:"/images/kunalEcom.png",
         features:["Context Api", "Reducer", "State Management", "Shopping filters functionality", "Add to Cart", "Styled component","Search Items functionality"]
