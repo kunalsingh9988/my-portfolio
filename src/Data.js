@@ -32,5 +32,16 @@ export const data = [
         imageUrl:"/images/kunalMovies.png",
         githubLink:"https://github.com/kunalsingh9988/kunal-movies/tree/master",
         features:["search functionality", "context api", "API"]
+    },
+    {
+        id:4,
+        projectName:"Lilies Food Delivery",
+        description:'The "Lilies Food Delivery App," powered by React.js, is a sleek and feature-rich front-end application designed to elevate your culinary experience. With a sophisticated user interface, it offers robust search and category-based item filtering functionalities, making it effortless to discover and order your favorite dishes.',
+        siteLink:{
+            isTrue:true,
+            link:"https://lilies-food-delivery.web.app"
+        },
+        imageUrl:"/images/lilies_food_delivery_app.png",
+        features:["Authentication", "Filter Items", "Good UI/UX","Navigation"]
     }
 ]
