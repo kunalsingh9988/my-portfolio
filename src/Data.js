@@ -39,7 +39,7 @@ export const data = [
         description:'The "Lilies Food Delivery App," powered by React.js, is a sleek and feature-rich front-end application designed to elevate your culinary experience. With a sophisticated user interface, it offers robust search and category-based item filtering functionalities, making it effortless to discover and order your favorite dishes.',
         siteLink:{
             isTrue:true,
-            link:"https://lilies-food-delivery.web.app"
+            link:"https://lilies-food-delivery-2af08.web.app/"
         },
         imageUrl:"/images/lilies_food_delivery_app.png",
         features:["Authentication", "Filter Items", "Good UI/UX","Navigation"]
